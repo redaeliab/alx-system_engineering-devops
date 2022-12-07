@@ -1,0 +1,25 @@
+total 88
+drwxr-xr-x 2 root root 4096 Dec  7 14:46 .
+drwxr-xr-x 8 root root  197 Dec  6 14:45 ..
+-rwxr--r-- 1 root root   28 Dec  6 14:51 0-alias
+-rwxr--r-- 1 root root   35 Dec  7 13:16 100-decimal_to_hexadecimal
+-rwxr--r-- 1 root root   39 Dec  7 13:21 101-rot13
+-rwxr--r-- 1 root root   32 Dec  7 13:26 102-odd
+-rwxr--r-- 1 root root  128 Dec  7 14:06 103-water_and_stir
+-rwxr--r-- 1 root root   37 Dec  7 11:25 10-love_exponent_breath
+-rwxr--r-- 1 root root   32 Dec  7 11:36 11-binary_to_decimal
+-rwxr--r-- 1 root root   59 Dec  7 11:50 12-combinations
+-rwxr--r-- 1 root root   34 Dec  7 12:00 13-print_float
+-rwxr--r-- 1 root root   31 Dec  6 14:55 1-hello_you
+-rwxr--r-- 1 root root   31 Dec  6 15:18 2-path
+-rwxr--r-- 1 root root   45 Dec  6 15:15 3-paths
+-rwxr--r-- 1 root root   21 Dec  6 15:23 4-global_variables
+-rwxr--r-- 1 root root   23 Dec  6 15:29 5-local_variables
+-rwxr--r-- 1 root root   24 Dec  6 16:14 6-create_local_variable
+-rwxr--r-- 1 root root   31 Dec  6 16:16 7-create_global_variable
+-rwxr--r-- 1 root root   70 Dec  7 14:37 7-file
+-rwxr--r-- 1 root root   36 Dec  7 14:46 8-cwd_state
+-rwxr--r-- 1 root root   41 Dec  6 16:20 8-true_knowledge
+-rwxr--r-- 1 root root   37 Dec  6 16:25 9-divide_and_rule
+-rw-r--r-- 1 root root    0 Dec  7 14:46 ls_cwd_content
+-rw-r--r-- 1 root root   32 Dec  6 14:48 README.md
